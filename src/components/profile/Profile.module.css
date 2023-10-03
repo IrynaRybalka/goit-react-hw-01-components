@@ -1,17 +1,16 @@
 .profile {
     border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
     box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
     color: #7d7e82;
-    font-family: sans-serif;
-    width: 500px;
+    width: 600px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-
-.description {}
 
 .avatar {
     padding: 5px;
